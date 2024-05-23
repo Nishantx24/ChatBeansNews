@@ -1,0 +1,12 @@
+.news {
+  h1 {
+    font-size: 30px;
+    margin-bottom: 10px;
+  }
+  p {
+    padding-bottom: 40px;
+  }
+  hr {
+    margin-bottom: 40px;
+  }
+}
